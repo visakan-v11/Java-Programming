@@ -1,0 +1,35 @@
+Generate series and find Nth element
+
+Find result after alternate add_sub on N
+
+Find Password (stable unstable)
+
+Calculate sum of non-prime index values
+
+Find the one digit to be removed to form palindrome
+
+The “Nambiar Number” Generator
+
+User ID Generation
+
+Message controlled Robot movement
+
+FindStringCode
+
+Get Code Through Strings
+
+Addition using Strings
+
+Simple Encoded Array
+
+Decreasing sequence
+
+Most Frequently Occurring Digit
+
+Sum of Powers of Digits
+
+Sum of Sums of Digits in Cyclic order
+
+Identify possible words
+
+Encoding Three Strings
